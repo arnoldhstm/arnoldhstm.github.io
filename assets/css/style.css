@@ -329,6 +329,25 @@ strong {
   color: white;
 }
 
+#hero button {
+  margin-top: 30px;
+  display: inline-block;
+  width: 200px;
+  height: 50px;
+  font-family: 'Arvo', serif;
+  background-color: rgba(0, 0, 0, 0);
+  color: #64ffda;
+  border: 0.1vw solid #64ffda;
+  border-radius: 0.1vw;
+  font-size: 17px;
+  vertical-align: middle;
+  transform: box-shadow 15ms;
+}
+
+#hero button:hover {
+  box-shadow: 3px 3px #64ffda;
+}
+
 #hero p {
   color: #ccd6f6;
   margin: 15px 0 0 0;
