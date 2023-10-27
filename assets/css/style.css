@@ -15,14 +15,9 @@ body {
   background-color: #0a192f;
 }
 
-a:hover {
+a {
+  color: #64ffda;
   text-decoration: none;
-  background-color: rgba(0, 0, 0, 0);
-}
-
-a:hover {
-  text-decoration: none;
-  background-color: rgba(0, 0, 0, 0);
 }
 
 h2,
